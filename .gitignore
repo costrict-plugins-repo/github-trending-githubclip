@@ -1,0 +1,4 @@
+.claude/
+.env*.local
+*.bak
+.githubclip/

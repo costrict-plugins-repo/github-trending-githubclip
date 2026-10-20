@@ -1,0 +1,34 @@
+{
+  "name": "githubclip",
+  "metadata": {
+    "description": "GitHubClip plugin catalog for Claude Code agent orchestration with persona-based task routing."
+  },
+  "owner": {
+    "name": "Gerardo Vazquez",
+    "url": "https://github.com/gvzq/githubclip"
+  },
+  "plugins": [
+    {
+      "name": "githubclip",
+      "source": "./",
+      "description": "Agent orchestration with persona-based task routing for Claude Code. Supports GitHub Projects (primary) forked from githubclip.",
+      "author": {
+        "name": "Gerardo Vazquez"
+      },
+      "category": "automation",
+      "keywords": [
+        "github",
+        "githubclip",
+        "agent",
+        "orchestration",
+        "persona",
+        "heartbeat",
+        "claude-code",
+        "task-routing"
+      ],
+      "homepage": "https://github.com/gvzq/githubclip",
+      "repository": "https://github.com/gvzq/githubclip",
+      "license": "MIT"
+    }
+  ]
+}

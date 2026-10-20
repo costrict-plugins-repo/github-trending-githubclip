@@ -1,0 +1,11 @@
+{
+  "name": "githubclip",
+  "version": "2.0.0",
+  "description": "GitHub-backed agent orchestration with persona-based task routing for Claude Code. Uses GitHub Projects for work queue management.",
+  "author": {
+    "name": "Gerardo Vazquez"
+  },
+  "repository": "https://github.com/gvzq/githubclip",
+  "license": "MIT",
+  "keywords": ["github", "githubclip", "agent", "orchestration", "persona", "heartbeat"]
+}
